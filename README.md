@@ -4,5 +4,5 @@
 - I'm currently learning web development, and making my first steps in Git/GitHub.
 - Informatics degree in progress
 
-### <p align="center">Buck up, and learn-by-doing!</p>
+### <p align="center">Perseverance</p>
 

@@ -2,31 +2,32 @@
 
 ### <p align="center">Perseverance</p>
 
-🎓 Estudiante de **Licenciatura en Informática**  
-💻 Desarrollador **Fullstack Web**  
-🚀 Apasionado por la tecnología, la eficiencia del código y el desarrollo de soluciones reales
+🎓 Student: **Licenciatura en Informática**  // **Bachelor's Degree in Computer Science**
+💻 Developer: **Fullstack Web**  
+🚀 Passionate in technology, code efficiency and real-life solutions
 
 ---
 
-## 💼 Tecnologías y Herramientas que uso
+## 💼 Tools & Technologies
 
-- ⚙️ **Backend:** Java con Spring Boot, Python con Django
+- ⚙️ **Backend:** Java con Spring Boot, Python/Django
 - 🖥️ **Frontend:** ReactJS, HTML, CSS, JavaScript, TypeScript
-- 🐬 **Base de Datos:** MySQL, PostgreSQL
-- 🐳 **Contenedores:** Docker & Docker Compose
-- 🔧 Otros: Git, GitHub, Postman, VSCode
+- 🐬 **Databases:** MySQL, PostgreSQL
+- 🐳 **Containers:** Docker & Docker Compose
+- 📊 **Data Analytics:** Python, Plotly, Dash, interactive dashboards
+- 🔧 Others: Git, GitHub, Postman, VSCode, Jupyter Notebook
 
 ---
 
-  ## 🌱 Actualmente aprendiendo y mejorando
-- Mejores prácticas de arquitectura de software
-- CI/CD y despliegue en la nube
-- Seguridad en aplicaciones web con JWT y Cookies
+  ## 🌱 Currently learning and improving
+- Software architecture best practices
+- Safe deployment
+- Data analytics & Visualization
 
 ---
 
-  ## 📫 Cómo contactarme
+  ## 📫 Contact me
 
 - ✉️ [marianoocaranza@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariano-ocaranza-6a5b39235)
-- 🌐 [Portafolio](https://marianoocaranza.github.io/portfolio/)
+- 🌐 [Portfolio](https://marianoocaranza.github.io/portfolio/)

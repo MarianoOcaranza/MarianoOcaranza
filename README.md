@@ -24,6 +24,7 @@ Passionate in technology, code efficiency and real-life solutions
 - Software architecture best practices
 - Safe deployment
 - Data analytics & Visualization
+- Generative AI
 
 ---
 

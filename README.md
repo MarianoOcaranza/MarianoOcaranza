@@ -4,7 +4,7 @@
 
 🎓 Student: **Licenciatura en Informática**  // **Bachelor's Degree in Computer Science**
 💻 Developer: **Fullstack Web**  
-🚀 Passionate in technology, code efficiency and real-life solutions
+Passionate in technology, code efficiency and real-life solutions
 
 ---
 
@@ -14,7 +14,8 @@
 - 🖥️ **Frontend:** ReactJS, HTML, CSS, JavaScript, TypeScript
 - 🐬 **Databases:** MySQL, PostgreSQL
 - 🐳 **Containers:** Docker & Docker Compose
-- 📊 **Data Analytics:** Python, Plotly, Dash, interactive dashboards
+- 📊 **Data Analytics:** Python, Plotly, Dash, interactive dashboards, R
+- 🚀 **AI:** Gemini API, Google AI Studio, Ollama, LLMs, Retrieval-Augmented Generation
 - 🔧 Others: Git, GitHub, Postman, VSCode, Jupyter Notebook
 
 ---
